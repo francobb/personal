@@ -1,0 +1,29 @@
+- profile:
+  initials: JF
+  name: Buteau Francois Jr.
+  email: buteaufrancoisjr@gmail.com
+  profession: Web Developer
+  image: images/profile.jpg
+  location: Boston, USA
+  relocation: false
+  company: Clarity Inno
+  for_hire: false
+  focus: Learning Typescript
+  focus_url: https://www.typescriptlang.org/
+  about: |
+    I am Buteau Francois Jr. a full-stack software developer from Boston with a bachelor's degree in Computer Science as well as 10+ years of experience building, maintaining, and supporting websites and web applications.
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - Java
+  tools:
+    - React
+    - npm/Yarn
+    - Jest
+  budget:
+    currency: $
+    min: 3
+    max: 30
+    default: 10
+  aboutBlog: |
+    Welcome to my blog where I write about my development experiences with the new technologies I am working with.

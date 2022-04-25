@@ -1,0 +1,32 @@
+- name: Burger Builder
+  url: https://whatscookingri.com
+  description: Web application that allows users to build and order burgers, five guys style.
+  status: live
+  tags:
+    - React
+    - Redux
+    - NodeJs
+    - Oauth
+  icon: github
+
+- name: Tamisha Civil for State Rep
+  url: https://TamishaCivil.com
+  description: Tamisha for State Representative Campaign website
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+    - lambda
+  icon: website
+  image:
+
+- name: Ambassadors For Christ Mission
+  url: https://ambassador4christ.org
+  description: Ambassadors for Christ outreach mission website
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+    - AWS
+  icon: website
+  image:
