@@ -29,6 +29,7 @@ module.exports =
       locale: "en",
       showThemeLogo: true,
       title: "Jr Francois",
+      formspreeEndpoint: "https://formspree.io/f/buteaufrancoisjr@gmail.com",
     },
     plugins: [
       {
