@@ -18,6 +18,7 @@ const StructuredData = ({ profile, social }) => {
 
   return (
     <Helmet>
+      <meta name="icon" href="../../public/favicon.ico" />
       <script type="application/ld+json">{JSON.stringify(schema)}</script>
     </Helmet>
   )
