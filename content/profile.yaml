@@ -11,11 +11,7 @@
   focus: Learning Typescript
   focus_url: https://www.typescriptlang.org/
   about: |
-<<<<<<< HEAD
     Bonjour. My name is Buteau Francois Jr., but I go by Jr. I'm a full-stack software developer from Boston with a bachelor's degree in Computer Science as well as 10+ years of experience building, maintaining, and supporting websites and web applications.
-=======
-    Bonjour. my name is Buteau Francois Jr. but I go by Jr. I'm a full-stack software developer from Boston with a bachelor's degree in Computer Science as well as 10+ years of experience building, maintaining, and supporting websites and web applications.
->>>>>>> eeb37cce1aeeb6eb809608c95c487991aeb105aa
   skills:
     - JavaScript
     - HTML / CSS

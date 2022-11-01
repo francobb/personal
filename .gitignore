@@ -117,3 +117,6 @@ public
 .pnp.*
 
 /.idea/
+
+
+.DS_Store
