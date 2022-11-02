@@ -2,6 +2,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import { Helmet } from "react-helmet"
+import favicon from "../../assets/favicon.ico"
 
 const SEO = (props) => {
   const { site } = useStaticQuery(
@@ -30,6 +31,9 @@ const SEO = (props) => {
         lang: site.siteMetadata.locale,
       }}
       title={title}
+      link={[
+        { rel: "icon", type: "image/x-icon", href: favicon }
+      ]}
       meta={[
         {
           name: `description`,
