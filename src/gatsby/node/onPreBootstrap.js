@@ -21,6 +21,7 @@ module.exports = ({ reporter }, options) => {
       "work-history.yaml",
       "images/profile.jpg",
       "images/project.jpg",
+      "images/favicon.ico"
     ]
 
     filesToCopy.forEach((file) =>
